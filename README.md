@@ -15,7 +15,8 @@ Power supply voltage: 1 volt
 _____________________________________________________________________________________________
 Output results:
 ______________
-
+![SNDR   SFDR](https://user-images.githubusercontent.com/72104345/164895235-59ee8b94-3015-4c53-ac6b-b063bd404dd2.JPG)
+_______________________
 ![222](https://user-images.githubusercontent.com/72104345/164895133-e8025e50-76b8-4fff-80af-9de2c9eaa89e.JPG)
 _______________________
 ![v(out) with v(in) big](https://user-images.githubusercontent.com/72104345/164895145-2549d67c-d6c5-48fa-ba50-230884d5a8f9.JPG)
