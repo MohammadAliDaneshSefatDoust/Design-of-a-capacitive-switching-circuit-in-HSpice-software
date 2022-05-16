@@ -1,4 +1,4 @@
-# Design-of-a-capacitive-switching-circuit-in-HSpice-software
+# Design of a capacitive switching circuit in HSpice software
 The following capacitive switching circuit is ideal for an amplifier with a voltage gain of 80 decibels,which can be controlled using a voltage-controlled current source element in HSpice software.
 _____________
 SNDR > 60 dB
